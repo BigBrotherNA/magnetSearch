@@ -1,2 +1,9 @@
-# magnetSearch
-搜片小工具
+#标题
+**从[icili](http://www.icili.tv)，[btdao](http://www.btdao.org)，[torrentkitty](http://www.torrentkitty.net)，[cilisou](http://www.cilisou.cn)，[kickass](https://kat.cr)五个网站返回的结果整理在一个html文件里，并按热度排序**
+<br/>
+<br/>
+**运行程序，输入关键词(番号)后等待数秒浏览器会自动打开下载页面**  
+<br/>
+<br/>
+##下载页面截图
+![Result.jpg](https://ooo.0o0.ooo/2016/03/14/56e661fd5dbda.jpg)
